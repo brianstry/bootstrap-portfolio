@@ -1,0 +1,22 @@
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+body{
+    background-image: "dust_scratches.png";
+}
+
+.img-text {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 70%;
+    padding-top: 5px;
+    padding-left: 50px;
+    width: 200px;
+    background-color: grey; 
+    color: white;
+}
