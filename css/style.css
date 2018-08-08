@@ -2,9 +2,10 @@
     position: relative;
     bottom: 0;
     width: 100%;
+    background-color: #337ab7;
 }
 body{
-    background-image: "dust_scratches.png";
+    background-color: #2F4F4F;
 }
 
 .img-text {
@@ -17,6 +18,6 @@ body{
     padding-top: 5px;
     padding-left: 50px;
     width: 200px;
-    background-color: grey; 
+    background-color: #337ab7; 
     color: white;
 }
