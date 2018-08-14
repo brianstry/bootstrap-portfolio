@@ -21,3 +21,7 @@ body{
     background-color: #337ab7; 
     color: white;
 }
+
+.margin {
+    margin-right: 10px;
+}
